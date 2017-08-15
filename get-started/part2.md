@@ -282,7 +282,7 @@ docker tag friendlyhello john/get-started:part1
 ```
 
 Run [docker images](/engine/reference/commandline/images/) to see your newly
-tagged image. (You can also use `docker image ls`.)
+tagged image.
 
 ```shell
 $ docker images
